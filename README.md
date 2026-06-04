@@ -13,6 +13,19 @@ brew install keypak
 
 ---
 
+## Sound Packs
+
+Download free `.keypak` packs at **[mbirang.com/keyopera](https://mbirang.com/keyopera)**.
+
+Double-click any `.keypak` file to install it into KeyOpera automatically, or install from the terminal:
+
+```bash
+keypak install mypack.keypak
+keypak effect mypack
+```
+
+---
+
 ## What is keypak?
 
 `keypak` is a command-line tool that lets you control KeyOpera and create your own custom mechanical keyboard sound packs.
