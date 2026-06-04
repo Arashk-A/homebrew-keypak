@@ -15,7 +15,7 @@ brew install keypak
 
 ## Sound Packs
 
-Download free `.keypak` packs at **[mbirang.com/keyopera](https://mbirang.com/keyopera)**.
+Download free `.keypak` packs at **[mbirang.com/keyopera](https://mbirang.com/keyopera)** or directly from **[GitHub Releases](https://github.com/birangdev/homebrew-keypak/releases/tag/packs-v1)**.
 
 Double-click any `.keypak` file to install it into KeyOpera automatically, or install from the terminal:
 
